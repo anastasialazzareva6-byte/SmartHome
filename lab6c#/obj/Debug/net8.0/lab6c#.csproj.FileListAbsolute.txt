@@ -1,0 +1,14 @@
+C:\Users\Елизавета\source\repos\lab6c#\bin\Debug\net8.0\lab6c#.exe
+C:\Users\Елизавета\source\repos\lab6c#\bin\Debug\net8.0\lab6c#.deps.json
+C:\Users\Елизавета\source\repos\lab6c#\bin\Debug\net8.0\lab6c#.runtimeconfig.json
+C:\Users\Елизавета\source\repos\lab6c#\bin\Debug\net8.0\lab6c#.dll
+C:\Users\Елизавета\source\repos\lab6c#\bin\Debug\net8.0\lab6c#.pdb
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.AssemblyInfoInputs.cache
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.AssemblyInfo.cs
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.dll
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\refint\lab6c#.dll
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.pdb
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\lab6c#.genruntimeconfig.cache
+C:\Users\Елизавета\source\repos\lab6c#\obj\Debug\net8.0\ref\lab6c#.dll

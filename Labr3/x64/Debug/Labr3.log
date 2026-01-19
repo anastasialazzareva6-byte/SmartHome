@@ -1,0 +1,12 @@
+﻿  device.cpp
+  energyReport.cpp
+  main.cpp
+  notification.cpp
+C:\Users\nasib\source\repos\Labr3\notification.cpp(18,18): warning C4566: символ, представленный универсальным именем символа "\U0001F4E2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nasib\source\repos\Labr3\notification.cpp(21,48): warning C4566: символ, представленный универсальным именем символа "\U0001F534", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nasib\source\repos\Labr3\notification.cpp(22,50): warning C4566: символ, представленный универсальным именем символа "\U0001F7E1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nasib\source\repos\Labr3\notification.cpp(23,47): warning C4566: символ, представленный универсальным именем символа "\U0001F535", невозможно представить в текущей кодовой странице (1251)
+  room.cpp
+  scenarioAction.cpp
+  Создание кода...
+  Labr3.vcxproj -> C:\Users\nasib\source\repos\Labr3\x64\Debug\Labr3.exe

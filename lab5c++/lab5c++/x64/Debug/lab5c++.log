@@ -1,0 +1,2 @@
+﻿Main.obj : error LNK2005: main уже определен в lab5c++.obj
+C:\Users\Елизавета\source\repos\lab5c++\x64\Debug\lab5c++.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

@@ -1,0 +1,4 @@
+C:\Users\Елизавета\source\repos\lab5c#\obj\Debug\net8.0\lab5c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\source\repos\lab5c#\obj\Debug\net8.0\lab5c#.AssemblyInfoInputs.cache
+C:\Users\Елизавета\source\repos\lab5c#\obj\Debug\net8.0\lab5c#.AssemblyInfo.cs
+C:\Users\Елизавета\source\repos\lab5c#\obj\Debug\net8.0\lab5c#.csproj.CoreCompileInputs.cache
